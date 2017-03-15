@@ -8,4 +8,3 @@ Sequences.rar: Alignment data.
 GeneBranchInteractions.rar: Its output file, "rate.pois.matrix.txt" is the gene-branch interaction matrix.
 
 PredictionPrecedure.rar: it reads "rate.pois.matrix.txt" and outputs the posterior probabilities of ancestral states of all traits.
-
