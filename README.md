@@ -9,6 +9,6 @@ GeneBranchInteractions.rar: It reads branch-length matrix, and outputs "rate.poi
 
 PredictionPrecedure.rar: it reads "rate.pois.matrix.txt" and outputs the posterior probabilities of ancestral states of all traits.
 
-SourceData.rar: Contain posterior probabilites of ancestral states of all traits; branch effects predicted by 6 different models/data; branch-length matrix and gene-branch interaction matrix
+SourceData.rar: Contains predicted probabilites of ancestral states of all traits; branch effects predicted by 6 different models/data; branch-length matrix and gene-branch interaction matrix
 
 SequenceInformation.rar: Contain sequence information.
