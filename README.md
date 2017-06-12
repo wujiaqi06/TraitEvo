@@ -1,6 +1,8 @@
 # TraitEvo
 Rate-based approach for ancestral state reconstruction of life history traits
 
+BranchAnnotation.pdf: contains annotation of branch labels in SourceData.rar
+
 The following files are zipped with password protection, If you need password to unzip them, please email wujiaqi06@gmail.com.
 
 Sequences.rar: Alignment data.
