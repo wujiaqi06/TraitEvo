@@ -3,6 +3,8 @@ Rate-based approach for ancestral state reconstruction of life history traits
 
 BranchAnnotation.pdf: contains annotation of branch labels in SourceData.rar
 
+Mam.dat: The new amino acid substitution matrix fit to 89 mammal nuclear genes.
+
 The following files are zipped with password protection, If you need password to unzip them, please email wujiaqi06@gmail.com.
 
 Sequences.rar: Alignment data.
